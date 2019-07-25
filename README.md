@@ -18,4 +18,4 @@ Reverse each word in a sentence and display it on the screen in the same order. 
   * "Otto lost the deed to his house."
   * "Otto needs Xanax."
 
-  ### Deployed Link: 
+  ### Deployed Link: https://lukejhayes.github.io/palindrome/
