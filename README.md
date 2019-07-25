@@ -1,8 +1,9 @@
 # palindrome
 Palindrome Algorithm
 
-## Instructions
+## Deployed Link: https://lukejhayes.github.io/palindrome/
 
+### Instructions
 A palindrom is a sentence that reads the same backwards and forwards: "Was it a car or a cat I saw?"
 
 Reverse each word in a sentence and display it on the screen in the same order. For example, the sentence `This is an example` would become `siht si na elpmaxe`. If the word is a palindrome, have it display in red.
@@ -17,5 +18,3 @@ Reverse each word in a sentence and display it on the screen in the same order. 
   * "Otto bought a racecar he cannot afford."
   * "Otto lost the deed to his house."
   * "Otto needs Xanax."
-
-  ### Deployed Link: https://lukejhayes.github.io/palindrome/
