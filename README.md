@@ -1,5 +1,4 @@
-# palindrome
-Palindrome Algorithm
+# Palindrome Algorithm
 
 ## Deployed Link: https://lukejhayes.github.io/palindrome/
 
